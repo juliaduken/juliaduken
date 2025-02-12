@@ -1,6 +1,6 @@
 ## Hi, I'm Julia 👋🏼💻
 
-
+<img src="https://raw.githubusercontent.com/juliaduken/juliaduken/master/github-header.png" alt="banner that says Julia Duken, policy analyst & python enthusiast, with colorful blocks.">
 <!--
 **juliaduken/juliaduken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
