@@ -9,7 +9,7 @@ Outside of work I still build things. My portfolio site runs on a Raspberry Pi i
 
 ## About My Work
 My professional work sits behind an IRB, so the public repos here are closer to where I started than where I am now. What the job actually looks like:
-- **Data Engineering & Governance:** Relational data modeling, end-to-end analytic pipelines, and data governance for research operating under a formal IRB framework.
+- **Data engineering & governance:** Relational data modeling, end-to-end analytic pipelines, and data governance for research operating under a formal IRB framework.
 - **Applied analysis:** Program evaluation, clinical outcome & survey analysis, and NLP/GenAI in unstructured text analysis pipelines. Python, R, SQL, Tableau, Excel
 - **Building:** Nestled (React Native + Firebase, NFC tagging), self-hosting my portfolio and other sites, and a rotating cast of Raspberry Pi projects.
 
