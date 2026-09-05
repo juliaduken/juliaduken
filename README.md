@@ -1,6 +1,6 @@
 # Hi, I'm Julia 👋🏼💻
 
-<img src="https://raw.githubusercontent.com/juliaduken/juliaduken/master/github-header.png" alt="banner that says Julia Duken, policy analyst & python enthusiast, with colorful blocks.">
+<img src="https://raw.githubusercontent.com/juliaduken/juliaduken/master/github-header.svg" alt="banner that has white text stating Julia Duken, data scientist & developer, followed by a link to portfolio.juliaduken.com, with waves of color in the background.">
 
 ## About Me
 I'm currently working on completing my Master's in Public Policy and Management with an emphasis on policy analysis at Carnegie Mellon University. My goal for learning Python is to conduct data analysis and program evaluation, however, to keep up to speed I've created a lot of personal projects. Excited to share a few here!
